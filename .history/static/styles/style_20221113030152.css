@@ -1,0 +1,49 @@
+#nav {
+  height: 80px;
+  background-color: rgb(228, 127, 58);
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+
+}
+
+#nav h2 {
+  margin: 0;
+  color: white;
+  margin: 0 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#commands {
+  margin: 10px;
+}
+
+.cell {
+  padding: 10px 5px;
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.cell:hover {
+  background-color: coral;
+}
+
+.cell h4 {
+  display: inline-block;
+  margin: 0;
+  padding: 0 10px;
+}
+
+.cell textarea {
+  width: 90%;
+}
+
+.cell p {
+  width: 100%;
+  margin-left: 40px;
+}
+
+.text-center {
+  text-align: center;
+}
