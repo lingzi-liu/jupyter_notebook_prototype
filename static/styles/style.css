@@ -108,8 +108,8 @@
 
 #cell-list .cell p {
   width: 100%;
-  margin-left: 120px;
+  margin-left: 220px;
   font-size: large;
   font-family: Georgia, 'Times New Roman', Times, serif;
-
+  color: #666;
 }
